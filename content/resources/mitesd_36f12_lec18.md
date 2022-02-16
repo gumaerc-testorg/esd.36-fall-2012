@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding multi-project program management.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-36-system-project-management-fall-2012/d824406613befcb70592852c7fdfc892_MITESD_36F12_Lec18.pdf
+file: /media/courses/esd-36-system-project-management-fall-2012/d824406613befcb70592852c7fdfc892_MITESD_36F12_Lec18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 18: Multi-Project Program Management'
 uid: d8244066-13be-fcb7-0592-852c7fdfc892

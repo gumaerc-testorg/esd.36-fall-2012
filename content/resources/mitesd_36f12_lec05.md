@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding managing iterations with
   DSM.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-36-system-project-management-fall-2012/a1c17c7dfeb351701431c021964894d8_MITESD_36F12_Lec05.pdf
+file: /media/courses/esd-36-system-project-management-fall-2012/a1c17c7dfeb351701431c021964894d8_MITESD_36F12_Lec05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 05: Managing Iterations with DSM'
 uid: a1c17c7d-feb3-5170-1431-c021964894d8

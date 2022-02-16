@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: f55a5684-e96e-b7fb-c96b-1414d7da8bd3
 title: Case Studies
 uid: 7b73a871-4d82-c282-d85a-4fe230ffaf62

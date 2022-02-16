@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding organizations and projects.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-36-system-project-management-fall-2012/e016e8f2de3a161fd0bc7b6bb4baa886_MITESD_36F12_Lec15.pdf
+file: /media/courses/esd-36-system-project-management-fall-2012/e016e8f2de3a161fd0bc7b6bb4baa886_MITESD_36F12_Lec15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 15: Organizations and Projects'
 uid: e016e8f2-de3a-161f-d0bc-7b6bb4baa886
