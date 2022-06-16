@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the term project for the course, including
+  the objective, topics, administration, milestones, and a list of past project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

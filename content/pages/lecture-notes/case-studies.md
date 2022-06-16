@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides case studies of a construction project, aerospace
+  project, and software project.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
