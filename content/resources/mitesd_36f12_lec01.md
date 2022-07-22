@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/0e327f2ff5d05d364dde9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 01: Course Introduction'
 uid: 0e327f2f-f5d0-5d36-4dde-9c75b058b3ca
 ---
 This resource contains information regarding course introduction.
-

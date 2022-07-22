@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/e016e8f2de3a161fd0bc7b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 15: Organizations and Projects'
 uid: e016e8f2-de3a-161f-d0bc-7b6bb4baa886
 ---
 This resource contains information regarding organizations and projects.
-

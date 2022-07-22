@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/d824406613befcb7059285
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 18: Multi-Project Program Management'
 uid: d8244066-13be-fcb7-0592-852c7fdfc892
 ---
 This resource contains information regarding multi-project program management.
-

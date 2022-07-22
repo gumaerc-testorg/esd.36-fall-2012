@@ -6,6 +6,7 @@ file: /courses/esd-36-system-project-management-fall-2012/643e147e0fcc862533920b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture 20: Class Summary \u2013 Success Factors"
 uid: 643e147e-0fcc-8625-3392-0bdda92eec64
 ---
 This resource contains information regarding class summary – success factors.
-

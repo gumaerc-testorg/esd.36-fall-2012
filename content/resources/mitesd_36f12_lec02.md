@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/50d2b3499047b71baaa511
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 02: Critical Path Method'
 uid: 50d2b349-9047-b71b-aaa5-11aa809f6712
 ---
 This resource contains information regarding critical path method.
-

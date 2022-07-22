@@ -6,6 +6,7 @@ file: /courses/esd-36-system-project-management-fall-2012/ae17bf59fbdf184dd0a507
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 19: Guest Lecture on Project Management Resources'
 uid: ae17bf59-fbdf-184d-d0a5-0730b4bdb7df
 ---
 This resource contains information regarding guest lecture on project management resources.
-

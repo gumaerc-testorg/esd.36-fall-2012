@@ -8,10 +8,10 @@ image_metadata:
   credit: Courtesy of Olivier de Weck.
   image-alt: A flowchart.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-36f12-th.jpg
 uid: 8b5400fe-87e3-c938-c2ad-aaac83d96dc8
 ---
 A framework for system project management. Courtesy of Olivier de Weck.
-

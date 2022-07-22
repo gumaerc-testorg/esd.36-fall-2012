@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/390f77ce1d95a162955c34
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 11: Risk Management'
 uid: 390f77ce-1d95-a162-955c-3490bc2ac975
 ---
 This resource contains information regarding risk management.
-

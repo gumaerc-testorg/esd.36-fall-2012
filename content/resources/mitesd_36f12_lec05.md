@@ -6,6 +6,7 @@ file: /courses/esd-36-system-project-management-fall-2012/a1c17c7dfeb351701431c0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 05: Managing Iterations with DSM'
 uid: a1c17c7d-feb3-5170-1431-c021964894d8
 ---
 This resource contains information regarding managing iterations with DSM.
-

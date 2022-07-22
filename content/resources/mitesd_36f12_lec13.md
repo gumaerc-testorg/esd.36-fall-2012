@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/02262fe60f38438ad93b57
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 13: Project Dynamics Case Studies'
 uid: 02262fe6-0f38-438a-d93b-57cf155a764d
 ---
 This resource contains information regarding project dynamics case studies.
-

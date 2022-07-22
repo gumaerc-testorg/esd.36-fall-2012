@@ -6,6 +6,7 @@ file: /courses/esd-36-system-project-management-fall-2012/6c7bc91f35c7d387147908
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 04: Design Structure Matrix (DSM)'
 uid: 6c7bc91f-35c7-d387-1479-08cd2c80c9ca
 ---
 This resource contains information regarding design structure matrix (DSM).
-

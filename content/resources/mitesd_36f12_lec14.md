@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/f88719ff24d64f393ee4ef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 14: Humans and Projects'
 uid: f88719ff-24d6-4f39-3ee4-efca15284f99
 ---
 This resource contains information regarding humans and projects.
-

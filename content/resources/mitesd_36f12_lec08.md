@@ -5,6 +5,7 @@ file: /courses/esd-36-system-project-management-fall-2012/554b8ec26c472d4d43f0f2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 08: Project Dynamics Simulation'
 uid: 554b8ec2-6c47-2d4d-43f0-f2b19b4899b0
 ---
 This resource contains information regarding project dynamics simulation.
-
