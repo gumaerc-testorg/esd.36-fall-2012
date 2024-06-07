@@ -2,6 +2,7 @@
 content_type: resource
 description: A framework for system project management. Courtesy of Olivier de Weck.
 file: /courses/esd-36-system-project-management-fall-2012/8b5400fe87e3c938c2adaaac83d96dc8_esd-36f12-th.jpg
+file_size: 7659
 file_type: image/jpeg
 image_metadata:
   caption: A framework for system project management. (Courtesy of Olivier de Weck.)

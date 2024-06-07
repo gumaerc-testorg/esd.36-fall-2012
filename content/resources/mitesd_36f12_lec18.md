@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding multi-project program management.
 file: /courses/esd-36-system-project-management-fall-2012/d824406613befcb70592852c7fdfc892_MITESD_36F12_Lec18.pdf
+file_size: 1925262
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

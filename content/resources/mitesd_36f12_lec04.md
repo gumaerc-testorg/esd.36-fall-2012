@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding design structure matrix
   (DSM).
 file: /courses/esd-36-system-project-management-fall-2012/6c7bc91f35c7d387147908cd2c80c9ca_MITESD_36F12_Lec04.pdf
+file_size: 1006421
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
