@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding humans and projects.
 file: /courses/esd-36-system-project-management-fall-2012/f88719ff24d64f393ee4efca15284f99_MITESD_36F12_Lec14.pdf
+file_size: 783183
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

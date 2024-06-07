@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding project dynamics case studies.
 file: /courses/esd-36-system-project-management-fall-2012/02262fe60f38438ad93b57cf155a764d_MITESD_36F12_Lec13.pdf
+file_size: 1118785
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

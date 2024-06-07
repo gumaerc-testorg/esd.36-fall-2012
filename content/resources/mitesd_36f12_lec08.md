@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding project dynamics simulation.
 file: /courses/esd-36-system-project-management-fall-2012/554b8ec26c472d4d43f0f2b19b4899b0_MITESD_36F12_Lec08.pdf
+file_size: 917653
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
