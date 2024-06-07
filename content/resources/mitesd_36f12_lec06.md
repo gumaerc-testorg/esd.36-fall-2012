@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding introduction to project
   dynamics.
 file: /courses/esd-36-system-project-management-fall-2012/800ceb204ef03177b61e1288533446c1_MITESD_36F12_Lec06.pdf
+file_size: 920843
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

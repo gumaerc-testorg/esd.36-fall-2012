@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding sample DSMs.
 file: /courses/esd-36-system-project-management-fall-2012/b7efbcdf9f09c757d76251a4e9dca87e_MITESD_36F12_Lec04_SmDSMs.xls
+file_size: 60416
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Notes
