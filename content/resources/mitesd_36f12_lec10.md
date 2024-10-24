@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding budgeting and cost control.
-file: /courses/esd-36-system-project-management-fall-2012/cc2e35aeec27d3f5ee43e43ebda5201f_MITESD_36F12_Lec10.pdf
+file: /ol-ocw-studio-app/courses/esd-36-system-project-management-fall-2012/cc2e35aeec27d3f5ee43e43ebda5201f_MITESD_36F12_Lec10.pdf
 file_size: 762415
 file_type: application/pdf
 learning_resource_types:
