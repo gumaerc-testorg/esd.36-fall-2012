@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding guest lecture on project
   management resources.
-file: /courses/esd-36-system-project-management-fall-2012/ae17bf59fbdf184dd0a50730b4bdb7df_MITESD_36F12_Lec19_GstLec.pdf
+file: /ol-ocw-studio-app/courses/esd-36-system-project-management-fall-2012/ae17bf59fbdf184dd0a50730b4bdb7df_MITESD_36F12_Lec19_GstLec.pdf
 file_size: 3031652
 file_type: application/pdf
 learning_resource_types:
