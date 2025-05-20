@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the rework cycle.
-file: /ol-ocw-studio-app/courses/esd-36-system-project-management-fall-2012/e330950973673ad534a71590e0211b76_MITESD_36F12_Lec07.pdf
+file: /courses/esd-36-system-project-management-fall-2012/e330950973673ad534a71590e0211b76_MITESD_36F12_Lec07.pdf
 file_size: 1000719
 file_type: application/pdf
 learning_resource_types:
