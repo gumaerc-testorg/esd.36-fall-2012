@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding critical path method.
-file: /ol-ocw-studio-app/courses/esd-36-system-project-management-fall-2012/50d2b3499047b71baaa511aa809f6712_MITESD_36F12_Lec02.pdf
+file: /courses/esd-36-system-project-management-fall-2012/50d2b3499047b71baaa511aa809f6712_MITESD_36F12_Lec02.pdf
 file_size: 628454
 file_type: application/pdf
 learning_resource_types:
