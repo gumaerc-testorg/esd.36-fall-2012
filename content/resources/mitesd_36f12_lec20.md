@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding class summary \u2013 success\
   \ factors."
-file: /courses/esd-36-system-project-management-fall-2012/643e147e0fcc862533920bdda92eec64_MITESD_36F12_Lec20.pdf
+file: /ol-ocw-studio-app/courses/esd-36-system-project-management-fall-2012/643e147e0fcc862533920bdda92eec64_MITESD_36F12_Lec20.pdf
 file_size: 895737
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding probabilistic scheduling.
-file: /courses/esd-36-system-project-management-fall-2012/e1b8131f4ee9e0a7d98d8616a26bdcbb_MITESD_36F12_Lec09.pdf
+file: /ol-ocw-studio-app/courses/esd-36-system-project-management-fall-2012/e1b8131f4ee9e0a7d98d8616a26bdcbb_MITESD_36F12_Lec09.pdf
 file_size: 1787197
 file_type: application/pdf
 learning_resource_types:
