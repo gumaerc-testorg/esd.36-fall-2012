@@ -34,7 +34,7 @@ Finally, in the sixth module we provide pointers to important resources for proj
 Learning Objectives
 -------------------
 
-The class is specifically designed for students in the [System Design and Management (SDM)](http://sdm.mit.edu/) program and therefore assumes that you already have a basic knowledge of project management. Ideally, you will have already managed one or more projects yourself and will therefore understand the fundamental tensions between technical scope, cost, schedule and risk.
+The class is specifically designed for students in the {{% resource_link "b96d059a-b29f-4007-82ca-20eb08ccb970" "System Design and Management (SDM)" %}} program and therefore assumes that you already have a basic knowledge of project management. Ideally, you will have already managed one or more projects yourself and will therefore understand the fundamental tensions between technical scope, cost, schedule and risk.
 
 **The overall objective of this class is to introduce advanced principles, methods and tools for project management in a realistic engineering context, such that they can be taken back to the workplace to improve your ability to manage complex product and system development projects.**
 
