@@ -47,7 +47,7 @@ CHAPTERS, ARTICLES AND HANDOUTS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Levy, F. K., et al., "[The ABCs of Critical Path Method](http://hbr.org/product/a/an/63508-PDF-ENG?cm_sp=doi-_-article-_-63508-PDF-ENG&referral=00103)." _Harvard Business Review_, September-October, 1963.
+Levy, F. K., et al., "{{% resource_link "393670bd-9a97-4ac8-b94e-0816d4d0afd8" "The ABCs of Critical Path Method" %}}." _Harvard Business Review_, September-October, 1963.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ Levy, F. K., et al., "[The ABCs of Critical Path Method](http://hbr.org/product/
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Eppinger, Steven D., Daniel E. Whitney, et al. "[A Model-Based Method for Organizing Tasks in Product Development](http://link.springer.com/article/10.1007%2FBF01588087)." _Research in Engineering Design_ 6, no. 1 (1994): 1–13.
+Eppinger, Steven D., Daniel E. Whitney, et al. "{{% resource_link "7d3f608d-e7ff-48bf-9774-ade2a626c89f" "A Model-Based Method for Organizing Tasks in Product Development" %}}." _Research in Engineering Design_ 6, no. 1 (1994): 1–13.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ Eppinger, Steven D., Daniel E. Whitney, et al. "[A Model-Based Method for Organi
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Eppinger, Steven D., Murthy V. Nukala, et al. "[Generalised Models of Design Iteration Using Signal Flow Graphs](http://link.springer.com/article/10.1007/BF01596486)." _Research in Engineering Design_ 9, no. 2 (1997): 112–23.
+Eppinger, Steven D., Murthy V. Nukala, et al. "{{% resource_link "c20ef093-cfc3-43dd-a74f-532fb4c689d8" "Generalised Models of Design Iteration Using Signal Flow Graphs" %}}." _Research in Engineering Design_ 9, no. 2 (1997): 112–23.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +164,7 @@ Earned Value Management (EVM)—Gold Card
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Neufville, Richard de, Oliver de Weck, et al. "[Uncertainty Management for Engineering Systems Planning and Design." (PDF)](http://esd.mit.edu/symposium/pdfs/monograph/uncertainty.pdf) _Engineering Systems Monograph_. March 29-31, 2004.
+Neufville, Richard de, Oliver de Weck, et al. "{{% resource_link "67506c63-711a-4d4d-80e6-faf8a84bf869" "Uncertainty Management for Engineering Systems Planning and Design.\" (PDF)" %}} _Engineering Systems Monograph_. March 29-31, 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +240,7 @@ Take the MBTI Personality Test—URL will be provided.
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Manuel E. Sosa, Steven D. Eppinger, et al. "[The Misalignment of Product Architecture and Organizational Structure in Complex Product Development](http://dx.doi.org/10.1287/mnsc.1040.0289)." _Management Science_ 50, no. 12, (2004): 1674–89, December 2004.
+Manuel E. Sosa, Steven D. Eppinger, et al. "{{% resource_link "e05c7b34-0e4e-4268-a5ca-8c629c54c96a" "The Misalignment of Product Architecture and Organizational Structure in Complex Product Development" %}}." _Management Science_ 50, no. 12, (2004): 1674–89, December 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +260,7 @@ Manuel E. Sosa, Steven D. Eppinger, et al. "[The Misalignment of Product Archite
 {{< tdopen >}}
 
 
-Browse the following website for 30 minutes: [http://www.cyborlink.com/](http://www.cyborlink.com/)
+Browse the following website for 30 minutes: {{% resource_link "0c07e8b5-b809-4db0-b253-06314fd4aeeb" "http://www.cyborlink.com/" %}}
 
 International Business Etiquette
 {{< tdclose >}}
@@ -271,7 +271,7 @@ International Business Etiquette
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Browse the following website for 30 minutes: [http://www.pmi.org](http://www.pmi.org)
+Browse the following website for 30 minutes: {{% resource_link "a24d083f-7c42-457d-9088-c710fc3d4283" "http://www.pmi.org" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,8 +293,8 @@ Highsmith, James, _Adaptive Software Development: A Collaborative Approach to Ma
 
 Kerzner, Harold. _Project Management: A Systems Approach to Planning, Scheduling, and Controlling_. 9th ed., Wiley, 2009. ISBN: 9780470278703.
 
-Sterman, John. _Business Dynamics: Systems Thinking for a Complex World_. (Textbook with CD-ROM; book website and curriculum resources at [www.mhhe.com/sterman](http://www.mhhe.com/business/opsci/sterman/).) Irwin/McGraw-Hill, 2000. ISBN: 9780072389159.
+Sterman, John. _Business Dynamics: Systems Thinking for a Complex World_. (Textbook with CD-ROM; book website and curriculum resources at {{% resource_link "4a5eee4e-46f4-4e68-9ba3-aea59d4ef961" "www.mhhe.com/sterman" %}}.) Irwin/McGraw-Hill, 2000. ISBN: 9780072389159.
 
-Project Management Institute. _Guide to the Project Management Body of Knowledge (PMBOK Guide)_. 3rd ed., Project Management Institute, 2004. ISBN: 9781930699458. [http://www.pmibookstore.org](https://marketplace.pmi.org/Pages/default.aspx).
+Project Management Institute. _Guide to the Project Management Body of Knowledge (PMBOK Guide)_. 3rd ed., Project Management Institute, 2004. ISBN: 9781930699458. {{% resource_link "69d4b3f9-0c35-401d-9fd1-045a4d768d09" "http://www.pmibookstore.org" %}}.
 
 The books can be purchased or ordered at the MIT COOP (Kendall Square) or ordered online.
