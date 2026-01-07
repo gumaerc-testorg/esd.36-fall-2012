@@ -16,7 +16,7 @@ There will be a total of six (6) homework assignments throughout the term. The a
 
 The homeworks are a pedagogic means of ensuring some uniformity in achieving the learning objectives across the class that would not be guaranteed by the term projects alone.
 
-*   Homeworks are intended to be solved individually. Verbatim copying from others is not allowed. MIT's standard rules of academic honesty apply: {{% resource_link "f9ffdf82-6bad-4c36-bdee-2367bbfecd87" "http://web.mit.edu/policies/10.2.html" %}}
+*   Homeworks are intended to be solved individually. Verbatim copying from others is not allowed. MIT's standard rules of academic honesty apply: [http://web.mit.edu/policies/10.2.html](http://web.mit.edu/policies/10/10.2.html)
 *   If students want to cooperate on the homework, they can do so, **provided that they properly reference the contributions that others have made on the first page**. There will be no deduction if cooperation is properly referenced.
 *   Each student needs to upload their own solution.
 *   We might gather and publish anonymous time-spent statistics for assignments.
@@ -97,4 +97,4 @@ Design and analyze project organizations
 
 {{< tableclose >}}
 
-In 2012 we will use the MIT CityCar electric car project as the common context for all the homeworks. See here for more details: {{% resource_link "6072dbf1-c828-436c-9d0a-198cf5e2af12" "http://cp.media.mit.edu/research/54-citycar" %}}
+In 2012 we will use the MIT CityCar electric car project as the common context for all the homeworks. See here for more details: [http://cp.media.mit.edu/research/54-citycar](https://www.media.mit.edu/projects/citycar/overview/)
